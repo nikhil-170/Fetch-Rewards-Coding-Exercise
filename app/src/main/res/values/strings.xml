@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fetchRewards</string>
+    <string name="noNameItems">ITEMS WITH NO NAME</string>
+    <string name="items">ITEMS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
